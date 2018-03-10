@@ -1,0 +1,20 @@
+body {
+    background-image: url("../images/Barback.jpg");
+    background-size:100%;
+    color: white;
+
+}
+
+.container {
+    font-size: 30px;
+    text-shadow: 1px 1px 0px #ededed, 4px 4px 0px rgba(0,0,0,0.15);
+    font: 100 100px/ 'Berkshire Swash', Helvetica, sans-serif;
+    color: green;
+    text-shadow: 1px 1px 0px #ededed, 4px 4px 0px rgba(0,0,0,0.15);
+
+}
+
+.up:hover,
+.up:focus {
+  box-shadow: inset 0 -3.25em 0 0 var(--hover);
+}
